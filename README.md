@@ -10,7 +10,8 @@ Project by Arpita Lonakadi
 - Built a coordinated team of agents (QuestionAgent, AnswerAgent, ReportAgent, ReviewAgent).
 - Each agent has specialized responsibilities and communicates via an AgentWorkflow.
 
-### Automated Deep Research Pipeline
+### Automated Deep Research Pipeline_dekho
+
 - Converts a broad research topic → sub-questions → parallel answers → a high-quality final report.
 - Supports iterative reflection loops for improved coverage.
 
